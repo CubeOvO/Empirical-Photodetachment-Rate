@@ -1,4 +1,4 @@
-# Millar-Photodetachment-Rate
+# Empirical Photodetachment Rate Calculator
 
 [![DOI](https://zenodo.org/badge/355596316.svg)](https://zenodo.org/badge/latestdoi/355596316)
 
