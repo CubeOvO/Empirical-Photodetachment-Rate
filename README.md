@@ -1,4 +1,7 @@
 # Millar-Photodetachment-Rate
+
+[![DOI](https://zenodo.org/badge/355596316.svg)](https://zenodo.org/badge/latestdoi/355596316)
+
 @authors: Zeqi Zhang (zeqi.zhang17@imperial.ac.uk), Xinni Wu.
 
 This code calculates the photodetachment rate for a negative ion subjected to
